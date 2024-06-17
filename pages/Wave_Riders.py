@@ -1,9 +1,10 @@
 import datetime
 import json
+import pathlib
 import random
-import numpy as np
-import streamlit as st
 from pathlib import Path
+
+import streamlit as st
 from PIL import Image
 from pymongo.mongo_client import MongoClient
 from pymongo.server_api import ServerApi
@@ -264,6 +265,10 @@ def main():
                                 st.session_state.settings["Activities"]
                             )
                 st.button("Log activity.", on_click=submit_activity)
+
+            refugee_week_bingo = pathlib.Path("./Page_Images/refugee_week_bingo.jpg")
+            if refugee_week_bingo.exists():
+                st.image(str(refugee_week_bingo))
 
             st.write("---")
 
