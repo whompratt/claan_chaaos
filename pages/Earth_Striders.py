@@ -265,7 +265,7 @@ def main():
                             )
                 st.button("Log activity.", on_click=submit_activity)
 
-            refugee_week_bingo = pathlib.Path("./Page_Images/refugee_week_bingo.jpg")
+            refugee_week_bingo = pathlib.Path("./pages/Page_Images/refugee_week_bingo.jpg")
             if refugee_week_bingo.exists():
                 st.image(str(refugee_week_bingo))
 
