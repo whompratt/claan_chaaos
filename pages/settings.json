@@ -1,8 +1,8 @@
 {
-    "Earth Striders": ["Adam J", "Adam L", "Aimee", "Craig", "Ed", "Jade", "James", "Nikki", "Rob J", "Saharla", "Sahil", "Shans", "Tom", "Rob T"],
-    "Fire Dancers": ["Alex M", "Chev", "Connor", "Dean", "Falek", "Gavi", "Joanna", "John", "Johnny", "Jordan", "Lucio", "Naomi", "Nathalie", "Jean"],
-    "Thunder Walkers": ["Aaron", "Bethany", "Chris D", "Dylan", "Luke", "Magda", "Mikey", "Raj", "Sam", "Tori", "Ust", "Zoe", "Ashley"],
-    "Wave Riders": ["Andre", "Annabel", "Ayo", "Aysha", "Ben", "Chris W", "Dave", "Estelle", "Gareth", "Grace", "Greg", "Isi", "Mo", "Zach"],
+    "Earth Striders": ["Adam J", "Adam L", "Aimee", "Craig", "Ed", "Jade", "James", "Nikki", "Rob J", "Saharla", "Sahil", "Shans", "Tom", "Rob T", "Ashley R"],
+    "Fire Dancers": ["Alex M", "Chev", "Connor", "Dean", "Falek", "Gavi", "Joanna", "John", "Johnny", "Jordan", "Lucio", "Naomi", "Nathalie", "Jean", "Rebecca"],
+    "Thunder Walkers": ["Aaron", "Bethany", "Chris D", "Dylan", "Luke", "Magda", "Mikey", "Raj", "Sam", "Tori", "Ust", "Zoe", "Ashley W", "Aoife", "Peter"],
+    "Wave Riders": ["Andre", "Annabel", "Ayo", "Aysha", "Ben", "Chris W", "Dave", "Estelle", "Gareth", "Grace", "Greg", "Isi", "Mo", "Zach", "Lucy"],
     "Quests": {
         "D4: Listen to a song you've never listened to before": 4,
         "D6: Spend 30 minutes co-working with someone": 6,
