@@ -30,7 +30,7 @@ def main():
 
         # Add description
         st.header("The Claans portal has moved to a new domain.")
-        st.subheader("https://claan-caalm.streamlit.app/")
+        st.subheader("https://claans.streamlit.app/")
         st.write("Love you all.")
 
         st.divider()
