@@ -1,3 +1,4 @@
+import pathlib
 from pathlib import Path
 
 import streamlit as st
@@ -30,7 +31,11 @@ def main():
         # Add description
         st.header("The Claans portal has moved to a new domain.")
         st.subheader("https://claan-caalm.streamlit.app/")
-        st.subheader("Love you all.")
+        st.write("Love you all.")
+
+        st.divider()
+
+        st.image(str(pathlib.Path("./Images/so_long.png")))
 
         st.divider()
 
