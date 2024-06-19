@@ -61,7 +61,7 @@ if "db" not in st.session_state:
         print(e)
 
     # Set database and collection
-    st.session_state.db = client["Claan_app"]
+    st.session_state.db = client["claans"]
     st.session_state.col = st.session_state.db["wave_riders"]
     st.session_state.score_col = st.session_state.db["scores2"]
 

@@ -18,7 +18,7 @@ if "home_db" not in st.session_state:
         print(e)
 
     # Set the database and collection
-    st.session_state.home_db = client["Claan_app"]
+    st.session_state.home_db = client["claans"]
     st.session_state.home_col = st.session_state.home_db["scores2"]
 
 # Get relative path

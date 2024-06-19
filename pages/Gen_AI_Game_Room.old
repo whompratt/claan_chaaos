@@ -236,7 +236,7 @@ try:
 except Exception as e:
     print(e)
 # Set the database and collection
-db = client["Claan_app"]
+db = client["claans"]
 col = db[ROOM]
 
 # Load images
