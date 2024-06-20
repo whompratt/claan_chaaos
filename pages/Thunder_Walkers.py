@@ -23,7 +23,7 @@ def check_password():
 
     def password_entered():
         """Checks whether a password entered by the user is correct."""
-        if st.session_state["password"] == st.secrets["thunder_password"]:
+        if st.session_state["password"] == st.secrets.passwords.get("thunder_walkers"):
             st.session_state["thunder_password_correct"] = True
             del st.session_state["password"]  # don't store password
         else:
