@@ -1,6 +1,5 @@
 import datetime
 import json
-import pathlib
 import random
 from pathlib import Path
 
@@ -330,12 +329,6 @@ def main():
                     st.session_state.settings["Activities"],
                 )
                 st.button("Log activity.", on_click=submit_activity)
-
-            refugee_week_bingo = pathlib.Path(
-                "./pages/Page_Images/refugee_week_bingo.jpg"
-            )
-            if refugee_week_bingo.exists():
-                st.image(str(refugee_week_bingo))
 
             st.write("---")
 
