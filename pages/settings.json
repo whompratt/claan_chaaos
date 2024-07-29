@@ -4,11 +4,11 @@
     "Thunder Walkers": ["Aaron", "Bethany", "Chris D", "Dylan", "Luke", "Magda", "Mikey", "Raj", "Sam", "Tori", "Ust", "Zoe", "Ashley W", "Peter", "Mo A", "Will", "James B"],
     "Wave Riders": ["Andre", "Annabel", "Ayo", "Aysha", "Ben", "Chris W", "Dave", "Estelle", "Gareth", "Grace", "Isi", "Mo U", "Zach", "Lucy", "Aoife", "Cem"],
     "Quests": {
-        "D4: Do something kind for a stranger": 4,
-        "D6: Share a piece of your favourite art of any kind with your Claan": 6,
-        "D8: Freshen up your desk, clean up old and add new decorations": 8,
-        "D10: Use dictionary.com's Word of the Day in a sentence with someone from another Claan, without them noticing - no points if you get caught!": 10,
-        "D12: Send me (Jake) a suggestion for a future Claans Quest (bonus points for my favourite)": 12
+        "D4: Share a fun fact with your Claan!": 4,
+        "D6: If the weather is good, get outside and post a picture to your Claan, otherwise, moan about the weather!": 6,
+        "D8: Listen to a new piece of music in a genre you normally wouldn't, and share your thoughts with your Claan!": 8,
+        "D10: Start learning something new, but not for work, and post a picture of your progress to your Claan! (e.g. juggling, a language, an instrument, etc.)": 10,
+        "D12: Challenge me to a game of 9x9 Go! Bonus points if you win!": 12
     },
     "Activities": {
         "D4: 10,000 steps": 4,
@@ -16,5 +16,5 @@
         "D8: 45mins - Outdoor Exercise": 8,
         "D10: Team Sport": 10
     },
-    "Fortnight Start Date": "08/07/2024"
+    "Fortnight Start Date": "29/07/2024"
 }
